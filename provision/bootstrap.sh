@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Variables
-php_version="7.2"
+php_version="7.3"
 mysql_version="5.5"
-mariadb_version="10.2"
+mariadb_version="10.3"
 
 db_password='rootpass'
 
